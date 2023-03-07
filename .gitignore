@@ -1,3 +1,4 @@
+data
+free.ipynb
 .*
 !.gitignore
-data
